@@ -31,12 +31,13 @@ Risk & Delinquency Monitoring
 
 🔥 Default Loan Rate – Measures the proportion of defaulted loans against total loans.
 
+
 ## 🛠 Tech Stack
 Power BI – Data visualization & dashboard creation
 Excel / CSV – Data source
 
 
-##📌 Insights
+## 📌 Insights
 Identify top-performing states and product groups.
 
 Monitor borrower repayment discipline through delinquency and default rates.
