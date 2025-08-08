@@ -7,41 +7,41 @@ This dashboard enables decision-makers to track loan disbursements, collections,
 
  Loan Portfolio Overview
 
--💰 Total Loan Amount Funded – Measures the total value of loans disbursed.
--🏦 Total Loans – Tracks the total number of loans issued.
--💸 Total Collection – Reflects repayment performance, including principal and interest.
--🧮 Total Interest – Captures revenue generated from loan interest.
+- 💰 Total Loan Amount Funded – Measures the total value of loans disbursed.
+- 🏦 Total Loans – Tracks the total number of loans issued.
+- 💸 Total Collection – Reflects repayment performance, including principal and interest.
+- 🧮 Total Interest – Captures revenue generated from loan interest.
 
 Loan Distribution Analysis
 
--🗺️ State-Wise Loan – Displays the geographic distribution of loans.
--🕌 Religion-Wise Loan – Monitors loan allocation across religious demographics.
+- 🗺️ State-Wise Loan – Displays the geographic distribution of loans.
+- 🕌 Religion-Wise Loan – Monitors loan allocation across religious demographics.
 
  Trends & Performance
 
--📈 Disbursement Trend – Tracks changes in loan disbursements over time.
--📊 Grade-Wise Loan – Evaluates portfolio risk based on borrower credit grades.
+- 📈 Disbursement Trend – Tracks changes in loan disbursements over time.
+- 📊 Grade-Wise Loan – Evaluates portfolio risk based on borrower credit grades.
 
  Risk & Delinquency Monitoring
 
--🚫 Default Loan Count – Counts the number of loans in default.
--📉 Delinquent Client Count – Tracks borrowers with missed payments.
--⚠️ Delinquent Loan Rate – Percentage of loans overdue in the portfolio.
--🔥 Default Loan Rate – Measures the proportion of defaulted loans against total loans.
+- 🚫 Default Loan Count – Counts the number of loans in default.
+- 📉 Delinquent Client Count – Tracks borrowers with missed payments.
+- ⚠️ Delinquent Loan Rate – Percentage of loans overdue in the portfolio.
+- 🔥 Default Loan Rate – Measures the proportion of defaulted loans against total loans.
 
 
 ## 🛠 Tech Stack
 
--Power BI – Data visualization & dashboard creation
--Excel / CSV – Data source
+- Power BI – Data visualization & dashboard creation
+- Excel / CSV – Data source
 
 
 ## 📌 Insights
 
--Identify top-performing states and product groups.
--Monitor borrower repayment discipline through delinquency and default rates.
--Track loan disbursement growth trends to guide business strategy.
--Analyze credit grade patterns to manage portfolio risk.
+- Identify top-performing states and product groups.
+- Monitor borrower repayment discipline through delinquency and default rates.
+- Track loan disbursement growth trends to guide business strategy.
+- Analyze credit grade patterns to manage portfolio risk.
 
 
 ## 🙋‍♂️ About Me
